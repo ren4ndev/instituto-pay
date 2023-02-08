@@ -26,5 +26,12 @@
   "featured": {
     "title": "Lorem ipsum dolor sit amet consectetur elit. Fusce ut porta leo",
     "button": "Saiba mais"
+  },
+  "home": {
+    "number": "01.",
+    "title": "Tudo começa com uma marca forte.",
+    "subtitle": "Pagamentos",
+    "description": "Fusce ut porta leo. Sed iaculis lupus augue cursus, sodales euismod vitae porttitor. Suspendisse sed nunc.",
+    "button": "Entre em contato"
   }
 }

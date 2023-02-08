@@ -3,6 +3,8 @@ const theme = {
     primary: '#FFFFFF',
     secondary: '#1A1A1A',
     tertiary: '#CD0028',
+    'grayscale-01': '#CCCCCC',
+    'grayscale-02': '#4C4C4C',
   },
   weight: {
     regular: '400',
@@ -25,10 +27,10 @@ const theme = {
         size: '64px',
         lineHeight: '70px',
       },
-      // 'display-02': {
-      //   size: '3.2rem',
-      //   lineHeight: '4.0rem',
-      // },
+      'display-02': {
+        size: '57px',
+        lineHeight: '68px',
+      },
       // 'heading-01': {
       //   size: '2.8rem',
       //   lineHeight: '3.6rem',
@@ -45,10 +47,10 @@ const theme = {
       //   size: '1.8rem',
       //   lineHeight: '2.6rem',
       // },
-      // 'body-01': {
-      //   size: '1.4rem',
-      //   lineHeight: '2.4rem',
-      // },
+      'body-01': {
+        size: '16px',
+        lineHeight: '24px',
+      },
       'body-02': {
         size: '16px',
         lineHeight: '16px',
