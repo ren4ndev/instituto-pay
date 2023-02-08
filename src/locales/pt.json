@@ -58,5 +58,22 @@
         "path": "/imagemquemusa4.png"
       }
     ]
-  }
+  },
+  "reports": [
+    {
+      "title": "Planejamento",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 35
+    },
+    {
+      "title": "Análise",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 75
+    },
+    {
+      "title": "Design",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 63
+    }
+  ]
 }
