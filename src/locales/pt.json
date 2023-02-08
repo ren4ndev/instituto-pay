@@ -1,0 +1,26 @@
+{
+  "header": {
+    "menu": [
+      {
+        "number": "01.",
+        "text": "Home",
+        "disabled": false
+      },
+      {
+        "number": "02.",
+        "text": "Quem usa?",
+        "disabled": true
+      },
+      {
+        "number": "03.",
+        "text": "Diferenciais",
+        "disabled": true
+      },
+      {
+        "number": "04.",
+        "text": "Contato",
+        "disabled": true
+      }
+    ]
+  }
+}
