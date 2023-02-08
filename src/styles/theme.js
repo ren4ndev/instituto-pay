@@ -31,22 +31,14 @@ const theme = {
         size: '57px',
         lineHeight: '68px',
       },
-      // 'heading-01': {
-      //   size: '2.8rem',
-      //   lineHeight: '3.6rem',
-      // },
-      // 'heading-02': {
-      //   size: '2.4rem',
-      //   lineHeight: '3.2rem',
-      // },
-      // 'heading-03': {
-      //   size: '2rem',
-      //   lineHeight: '2.8rem',
-      // },
-      // 'heading-04': {
-      //   size: '1.8rem',
-      //   lineHeight: '2.6rem',
-      // },
+      'heading-01': {
+        size: '24px',
+        lineHeight: '28px',
+      },
+      'heading-02': {
+        size: '18px',
+        lineHeight: '27px',
+      },
       'body-01': {
         size: '16px',
         lineHeight: '24px',
