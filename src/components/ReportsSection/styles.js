@@ -5,7 +5,7 @@ const ReportsSectionArea = styled.div`
   grid-column: start / end;
   grid-row: start / end;
   justify-content: space-between;
-  padding: 0 35px;
+  padding: 60px 35px;
   width: 100%;
 `;
 

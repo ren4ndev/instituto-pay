@@ -75,5 +75,19 @@
       "description": "Lorem ipsum et dolor velit nec.",
       "percentage": 63
     }
-  ]
+  ],
+  "app": {
+    "number": "03.",
+    "title": "Agilidade na mão.",
+    "subtitle": "Aplicativo",
+    "description": "Quisque eget velit. Duis vitae semper augue. Orci nulla magna, arcu diam inceptos lupus ut quis nibh eu."
+  },
+  "cloud": {
+    "number": "04.",
+    "title": "Tudo na nuvem.",
+    "subtitle": "Cloud Safe",
+    "description": "Quisque eget velit. Duis vitae semper augue. Orci nulla magna, arcu diam inceptos lupus ut quis nibh eu.",
+    "button": "Cadastre-se"
+  
+  }
 }

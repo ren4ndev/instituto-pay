@@ -4,6 +4,7 @@ import FeaturedSection from '../../components/FeaturedSection';
 import HomeSection from '../../components/HomeSection';
 import WhoUsesSection from '../../components/WhoUsesSection';
 import ReportsSection from '../../components/ReportsSection';
+import DoubledSection from '../../components/DoubledSection';
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
       <HomeSection />
       <WhoUsesSection />
       <ReportsSection />
+      <DoubledSection />
     </>
   );
 }
