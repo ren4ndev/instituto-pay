@@ -12,47 +12,58 @@ const theme = {
   fonts: {
     sans: '"DM Sans", sans-serif;',
   },
+  buttons: {
+    primary: {
+      color: '#FFFFFF',
+      backgroundColor: 'transparent',
+      borderColor: '#FFFFFF',
+    },
+  },
   typography: {
     types: {
       'display-01': {
-        size: '4.0rem',
-        lineHeight: '4.8rem',
+        size: '64px',
+        lineHeight: '70px',
       },
-      'display-02': {
-        size: '3.2rem',
-        lineHeight: '4.0rem',
-      },
-      'heading-01': {
-        size: '2.8rem',
-        lineHeight: '3.6rem',
-      },
-      'heading-02': {
-        size: '2.4rem',
-        lineHeight: '3.2rem',
-      },
-      'heading-03': {
-        size: '2rem',
-        lineHeight: '2.8rem',
-      },
-      'heading-04': {
-        size: '1.8rem',
-        lineHeight: '2.6rem',
-      },
-      'body-01': {
-        size: '1.4rem',
-        lineHeight: '2.4rem',
-      },
+      // 'display-02': {
+      //   size: '3.2rem',
+      //   lineHeight: '4.0rem',
+      // },
+      // 'heading-01': {
+      //   size: '2.8rem',
+      //   lineHeight: '3.6rem',
+      // },
+      // 'heading-02': {
+      //   size: '2.4rem',
+      //   lineHeight: '3.2rem',
+      // },
+      // 'heading-03': {
+      //   size: '2rem',
+      //   lineHeight: '2.8rem',
+      // },
+      // 'heading-04': {
+      //   size: '1.8rem',
+      //   lineHeight: '2.6rem',
+      // },
+      // 'body-01': {
+      //   size: '1.4rem',
+      //   lineHeight: '2.4rem',
+      // },
       'body-02': {
-        size: '16',
+        size: '16px',
         lineHeight: '16px',
       },
-      'caption-01': {
-        size: '0.8rem',
-        lineHeight: '1.6rem',
-      },
+      // 'caption-01': {
+      //   size: '0.8rem',
+      //   lineHeight: '1.6rem',
+      // },
       'caption-02': {
         size: '10px',
         lineHeight: '16px',
+      },
+      button: {
+        size: '16px',
+        lineHeight: '24px',
       },
     },
   },

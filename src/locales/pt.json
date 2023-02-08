@@ -22,5 +22,9 @@
         "disabled": true
       }
     ]
+  },
+  "featured": {
+    "title": "Lorem ipsum dolor sit amet consectetur elit. Fusce ut porta leo",
+    "button": "Saiba mais"
   }
 }

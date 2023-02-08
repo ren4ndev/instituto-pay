@@ -15,6 +15,10 @@ const Typography = styled('span').attrs(({ tag }) => ({
   }
 };
   line-height: ${({ theme, type }) => theme.typography.types[type].lineHeight};
+  letter-spacing: ${({ spacing }) => {
+    if (spacing) return spacing;
+    return '0px';
+  }};
   opacity: ${({ disabled }) => {
     if (disabled) return '0.4';
     return '1';
