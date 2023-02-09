@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/instituto-pay/static/js/main.9778704a.js",
+    "static/media/banner.png": "/instituto-pay/static/media/banner.5fe9fc6b399372b9877d.png",
+    "static/media/celularbanner.png": "/instituto-pay/static/media/celularbanner.87d6364bccba37690669.png",
+    "static/media/imgquemusa4.png": "/instituto-pay/static/media/imgquemusa4.1966cdabb4e349170839.png",
+    "static/media/imgquemusa1.png": "/instituto-pay/static/media/imgquemusa1.61e2817b7a9f16a3c69a.png",
+    "static/media/celulardeitado.png": "/instituto-pay/static/media/celulardeitado.ac25f11cc4e2339fcd74.png",
+    "static/media/imgquemusa2.png": "/instituto-pay/static/media/imgquemusa2.9f3ded3d4c7570cf96cf.png",
+    "static/media/celularnuvem.png": "/instituto-pay/static/media/celularnuvem.3b569b249bfdec91bc84.png",
+    "static/media/imgquemusa3.png": "/instituto-pay/static/media/imgquemusa3.eb0fc2cb6257eed4a680.png",
+    "index.html": "/instituto-pay/index.html",
+    "static/media/paper-plane.svg": "/instituto-pay/static/media/paper-plane.46235253656f26ca9fd297a6de3c3776.svg",
+    "static/media/arrow-right.svg": "/instituto-pay/static/media/arrow-right.afb8d235e4d796132bfde58ef3c9a3bb.svg",
+    "main.9778704a.js.map": "/instituto-pay/static/js/main.9778704a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9778704a.js"
+  ]
+}
