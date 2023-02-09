@@ -1,0 +1,135 @@
+{
+  "header": {
+    "menu": [
+      {
+        "number": "01.",
+        "text": "Home",
+        "disabled": false
+      },
+      {
+        "number": "02.",
+        "text": "Quem usa?",
+        "disabled": true
+      },
+      {
+        "number": "03.",
+        "text": "Diferenciais",
+        "disabled": true
+      },
+      {
+        "number": "04.",
+        "text": "Contato",
+        "disabled": true
+      }
+    ]
+  },
+  "featured": {
+    "title": "Lorem ipsum dolor sit amet consectetur elit. Fusce ut porta leo",
+    "button": "Saiba mais"
+  },
+  "home": {
+    "number": "01.",
+    "title": "Tudo começa com uma marca forte.",
+    "subtitle": "Pagamentos",
+    "description": "Fusce ut porta leo. Sed iaculis lupus augue cursus, sodales euismod vitae porttitor. Suspendisse sed nunc.",
+    "button": "Entre em contato"
+  },
+  "whoUses": {
+    "title": "Quem usa?",
+    "cards": [
+      {
+        "title": "Estudantes",
+        "description": "Lorem ipsum et dolor sit amet, sed consetetur sadipscing elitr, sed diam",
+        "path": "/imagemquemusa1.png"
+      },
+      {
+        "title": "Funcionários",
+        "description": "Lorem ipsum et dolor sit amet, sed consetetur sadipscing elitr, sed diam",
+        "path": "/imagemquemusa2.png"
+      },
+      {
+        "title": "Pessoas físicas e jurídicas",
+        "description": "Lorem ipsum et dolor sit amet, sed consetetur sadipscing elitr, sed diam",
+        "path": "/imagemquemusa3.png"
+      },
+      {
+        "title": "Outras empresas",
+        "description": "Lorem ipsum et dolor sit amet, sed consetetur sadipscing elitr, sed diam",
+        "path": "/imagemquemusa4.png"
+      }
+    ]
+  },
+  "reports": [
+    {
+      "title": "Planejamento",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 35
+    },
+    {
+      "title": "Análise",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 75
+    },
+    {
+      "title": "Design",
+      "description": "Lorem ipsum et dolor velit nec.",
+      "percentage": 63
+    }
+  ],
+  "app": {
+    "number": "03.",
+    "title": "Agilidade na mão.",
+    "subtitle": "Aplicativo",
+    "description": "Quisque eget velit. Duis vitae semper augue. Orci nulla magna, arcu diam inceptos lupus ut quis nibh eu."
+  },
+  "cloud": {
+    "number": "04.",
+    "title": "Tudo na nuvem.",
+    "subtitle": "Cloud Safe",
+    "description": "Quisque eget velit. Duis vitae semper augue. Orci nulla magna, arcu diam inceptos lupus ut quis nibh eu.",
+    "button": "Cadastre-se"
+  
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Sobre nós",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      },
+      {
+        "title": "Links",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      },
+      {
+        "title": "Categorias",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      }
+    ],
+    "news": {
+      "title": "Newsletter",
+      "cta": "Baixe o app"
+    },
+    "info": {
+      "rights": "Todos os direitos reservados - 2021",
+      "title": "Instituto Pay"
+    }
+  }
+}
