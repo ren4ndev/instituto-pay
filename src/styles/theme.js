@@ -3,8 +3,10 @@ const theme = {
     primary: '#FFFFFF',
     secondary: '#1A1A1A',
     tertiary: '#CD0028',
+    quarternary: '#0180FF',
     'grayscale-01': '#CCCCCC',
     'grayscale-02': '#4C4C4C',
+    'grayscale-03': '#90A4AE',
   },
   weight: {
     regular: '400',

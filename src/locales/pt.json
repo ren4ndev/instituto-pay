@@ -89,5 +89,47 @@
     "description": "Quisque eget velit. Duis vitae semper augue. Orci nulla magna, arcu diam inceptos lupus ut quis nibh eu.",
     "button": "Cadastre-se"
   
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Sobre nós",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      },
+      {
+        "title": "Links",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      },
+      {
+        "title": "Categorias",
+        "sublinks": [
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum",
+          "Lorem ipsum"
+        ]
+      }
+    ],
+    "news": {
+      "title": "Newsletter",
+      "cta": "Baixe o app"
+    },
+    "info": {
+      "rights": "Todos os direitos reservados - 2021",
+      "title": "Instituto Pay"
+    }
   }
 }
